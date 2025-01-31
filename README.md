@@ -46,3 +46,7 @@ The data for this dashboard is sourced from Internet (uploaded in the repository
 ## Author
 
 Ratnesh Kumar
+
+## Dashboard
+
+![Alt text](https://github.com/ratnesh134/Hotel_Revenue_Analysis/blob/main/Dashboard.jpeg)
